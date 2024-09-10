@@ -1,0 +1,6 @@
+aws:
+        accessKey: AKIATXZ6ULEJYRIXTQVS
+        secretKey: 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
+        region: ap-south-1
+        s3:
+        bucket: s3uploadimagebucket
